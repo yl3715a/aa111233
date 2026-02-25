@@ -2,35 +2,3 @@ git remote add origin git@github.com:yl3715a/aa111233.git
 git branch -M main
 git push -u origin main
 
-
-123456
-12315646456
-
-
-
-444444444
-
-
-555
-6666
-
-
-7777
-888
-
-
-999
-00000
-
-
-12123123123
-
-fdsafdsa
-
-rfewlrewljo
-
-etwret
-r
-
-
-retretre
