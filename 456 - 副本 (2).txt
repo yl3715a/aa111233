@@ -1,0 +1,3 @@
+git remote add origin git@github.com:yl3715a/aa111233.git
+git branch -M main
+git push -u origin main
