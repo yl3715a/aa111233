@@ -1,0 +1,11 @@
+echo "# aa111233" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:yl3715a/aa111233.git
+git push -u origin main
+
+
+  git config --global user.email "yl3715a@163.com"
+  git config --global user.name "Da Sheng"
